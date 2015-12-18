@@ -1,5 +1,5 @@
 body{
-background-color: black;
+background-color: whitesmoke;
 background-size: cover;
 background-attachment: fixed;
 line-height: 1.5;
@@ -12,7 +12,7 @@ div{
 }
 .container {
     border-radius: 25px;
-    background: rgba(255, 255, 255, 0.7);
+    background: black;
     max-width: 600px;
     margin: 0 auto;
     padding: .1em;
@@ -41,14 +41,14 @@ h1{
     font-size: 112px;
     margin: 0 auto;
     padding: .5em;
-    color:white;
+    color:black;
 }
 #demo{
     text-align: center;
     font-family: HelveticaNeue-Light;
     margin: 0 auto;
     padding: .5em;
-    color:white;
+    color:black;
 }
 
 a{
@@ -72,6 +72,7 @@ p{
     clear: both;
     font-family: HelveticaNeue-Light;
     line-height: .5;
+    color: white;
     
     
 }
@@ -109,7 +110,7 @@ li {
 li a {
     display: block;
     padding: 8px;
-    color: white;
+    color: black;
     font-family: HelveticaNeue-Light;
     text-decoration: none;
     text-transform: uppercase;
