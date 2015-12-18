@@ -28,6 +28,7 @@ div{
     font-family: HelveticaNeue-Light;
     text-decoration: none;
     text-transform: uppercase;
+    box-shadow: none;
 }
 
 #footer{
@@ -35,7 +36,7 @@ div{
     text-decoration: none;
     display: inline;
     list-style-type: none;
-    box-shadow: none
+    
 }
 h1{
     text-align: center;
