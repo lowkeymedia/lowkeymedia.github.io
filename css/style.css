@@ -71,8 +71,15 @@ a{
 p{
     clear: both;
     font-family: HelveticaNeue-Light;
+    line-height: .5;
+    
     
 }
+
+#priv{
+    line-height: 1;
+}
+
 /*navigation*/ 
 
 ul {
