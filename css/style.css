@@ -38,6 +38,11 @@ div{
     list-style-type: none;
     
 }
+
+#vid-id{
+    color:white;
+}
+
 h1{
     text-align: center;
     font-family: Jellyka Delicious Cake;
