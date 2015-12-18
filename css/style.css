@@ -15,7 +15,8 @@ div{
     background: rgba(255, 255, 255, 0.7);
     max-width: 600px;
     margin: 0 auto;
-    padding: 20px;
+    padding: .1em;
+    padding-bottom: .5em;
     margin-bottom: 20px;
     text-align: center;
 }
