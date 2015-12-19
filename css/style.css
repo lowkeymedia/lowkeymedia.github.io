@@ -107,6 +107,10 @@ ul {
     
 }
 
+#title{
+    color:white;
+}
+
 #arch{
     list-style-type: none;
     margin: 0px 150px;
