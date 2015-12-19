@@ -5,7 +5,15 @@ background-attachment: fixed;
 line-height: 1.5;
 
 }
+vid-title{
+    font-size: 48px;
+    text-transform: uppercase;
+}
 
+vid-content{
+    background: none;
+    box-shadow: none;
+}
 div{
     display:block;
     
