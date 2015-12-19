@@ -80,8 +80,14 @@ p{
     clear: both;
     font-family: HelveticaNeue-Light;
     line-height: .5;
-    color: white;
     
+    
+    
+}
+
+priv-cont{
+    background: none;
+    box-shadow: none;
     
 }
 
