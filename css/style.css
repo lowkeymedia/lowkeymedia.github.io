@@ -20,7 +20,7 @@ div{
 }
 .container {
     border-radius: 25px;
-    background: black;
+    
     max-width: 600px;
     margin: 0 auto;
     padding: .1em;
