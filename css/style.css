@@ -10,6 +10,16 @@ line-height: 1.5;
     text-transform: uppercase;
 }
 
+iframe,
+object,
+embed{
+    border:5px solid rgba(255,255,255,0);
+    -webkit-border-radius: 20px !important; 
+    -ms-border-radius: 20px !important; 
+    -o-border-radius: 20px !important;  
+    border-radius: 20px !important;     
+}
+
 #vid-content{
     background: none;
     box-shadow: none;
