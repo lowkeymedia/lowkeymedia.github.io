@@ -198,6 +198,14 @@ a:hover {
 }
 
     
+@media (max-width:1115px) {
+    #navigation{
+        display:none;
+    }
     
-
+    .container{
+        display:none;
+    }
+}
+    
 
