@@ -217,6 +217,10 @@ a:hover {
 .container{
     width:600px;
 }
+
+img{
+    width:100%;
+}
     
     
 }
