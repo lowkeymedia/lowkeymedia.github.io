@@ -233,6 +233,7 @@ a:hover {
     margin: 0;
     padding-bottom: 2em;
     overflow: hidden;
+    position: static;
 }
 
 li {
