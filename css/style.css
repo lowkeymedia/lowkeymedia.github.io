@@ -205,11 +205,10 @@ a:hover {
     
     .#index-content{
         background:none;
+        max-width: 100%;
     }
     
-    .container{
-        background: none;
-    }
+    
 }
     
 
