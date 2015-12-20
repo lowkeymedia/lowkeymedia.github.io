@@ -211,6 +211,10 @@ a:hover {
   width: 100%    !important;
   height: auto   !important;
 }
+
+.container{
+    width:600px;
+}
     
     
 }
