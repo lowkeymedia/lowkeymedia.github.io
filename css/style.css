@@ -206,6 +206,10 @@ a:hover {
     .#index-content{
         background:none;
     }
+    
+    .container{
+        background: none;
+    }
 }
     
 
