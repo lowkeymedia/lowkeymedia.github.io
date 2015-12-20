@@ -205,7 +205,9 @@ a:hover {
 
     
 @media (max-width:1115px) {
-    
+    #navigation{
+        padding-bottom: 3em;
+    }
     
     .#index-content{
         background:none;
