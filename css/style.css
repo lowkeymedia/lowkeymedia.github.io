@@ -227,6 +227,10 @@ a:hover {
  img{
      width: 100%;
  }
+ 
+ ul{
+     position:none;
+ }
 
 
     
