@@ -207,6 +207,10 @@ a:hover {
         background:none;
         max-width: 100%;
     }
+    video {
+  width: 100%    !important;
+  height: auto   !important;
+}
     
     
 }
