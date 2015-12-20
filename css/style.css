@@ -226,16 +226,22 @@ a:hover {
      width: 100%;
  }
  
- ul{
+ ul {
     list-style-type: none;
-    margin: 0px 150px;
+    margin: 0;
     padding: 0;
     overflow: hidden;
-    border-radius: 25px;
-    position: static; }
+}
 
+li {
+    float: left;
+}
 
-    
+li a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+}
 }
     
 
