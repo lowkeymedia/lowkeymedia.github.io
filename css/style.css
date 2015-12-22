@@ -10,6 +10,7 @@ img{
     display: block;
     margin-left: auto;
     margin-right: auto;
+    padding: 2em;
     
     
 }
@@ -229,6 +230,7 @@ a:hover {
  
  img{
      width: 600px;
+     padding:1em;
  }
  
  ul {
