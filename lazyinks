@@ -1,1 +1,417 @@
 
+<!doctype html>
+<html class="no-js" lang="">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Archives</title>
+	<link rel="icon" type="img/gif" href="https://cloud.githubusercontent.com/assets/16345145/11915576/6abb115c-a67a-11e5-8eb2-c061ee3d3212.png">
+	<meta name="description" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link href="css/style.css" rel="stylesheet" type="text/css" />
+
+</head>
+
+<body>
+	<img src="https://cloud.githubusercontent.com/assets/16345145/11919664/e7879b18-a726-11e5-949a-8474e32ce94d.png">
+	
+		<div id="navigation">
+		
+		<ul >
+  			<li><a href="/index.html">Home</a></li>
+  			<li><a href="/videos.html">Videos</a></li>
+  			<li><a href="http://www.cronklife.com">Cronk Life</a></li>
+  			
+  			
+		</ul>
+	</div>
+	
+	<p id="demo"></p>
+	
+	<div class="container" id='vid-content'>
+		<p id="vid-title">January 28th, 2016</p>
+		<ol id="arch">
+		<p>No Videos Today</p>
+		</ol>
+        </div>
+	
+	<div class="container" id='vid-content'>
+		<p id="vid-title">January 27th, 2016</p>
+		<ol id="arch">
+		<p>No Videos Today</p>
+		</ol>
+        </div>
+	
+	<div class="container" id='vid-content'>
+		<p id="vid-title">January 26th, 2016</p>
+		<ol id="arch">
+		<p>No Videos Today</p>
+		</ol>
+        </div>
+	
+	<div class="container" id='vid-content'>
+		<p id="vid-title">January 25th, 2016</p>
+		<ol id="arch">
+		<p>No Videos Today</p>
+		</ol>
+        </div>
+	
+	<div class="container" id='vid-content'>
+		<p id="vid-title">January 24th, 2016</p>
+		<ol id="arch">
+		<p>No Videos Today</p>
+		</ol>
+        </div>
+	
+	<div class="container" id='vid-content'>
+		<p id="vid-title">January 23rd, 2016</p>
+		<ol id="arch">
+			<li id="vid-li"><a href="archives/january23-2016/Macklemore-White-Privilege-2/index.html">Macklemore X Ryan Lewis - White Privilege II</a></li>
+			<li id="vid-li"><a href="archives/january23-2016/Kiana-Brown-Hotline-Bling-Cover/index.html">Kiana Brown - Hotline Bling Cover</a></li>
+			<li id="vid-li"><a href="archives/january23-2016/Sherwood-Song-In-My-Head/index.html">Sherwood - Song In My head</a></li>
+		</ol>
+        </div>
+	
+	<div class="container" id='vid-content'>
+		<p id="vid-title">January 22nd, 2016</p>
+		<ol id="arch">
+			<li id="vid-li"><a href="archives/january22-2016/TheFatRat-Monody/index.html">TheFatRat - Monody </a></li>
+			<li id="vid-li"><a href="archives/january22-2016/Kiiara-Feels/index.html">Kiiara - Feels</a></li>
+			<li id="vid-li"><a href="archives/january22-2016/Im-A-Creep">Im A Creep... - Shotfilm</a></li>
+		</ol>
+        </div>
+	
+	<div class="container" id='vid-content'>
+		<p id="vid-title">January 21st, 2016</p>
+		<ol id="arch">
+			<li id="vid-li"><a href="archives/january21-2016/Louis-The-Child-Its-Strange/index.html">Louis The Child - It's Strange Ft. K.Flay (Gianni Kosta Remix) </a></li>
+			<li id="vid-li"><a href="archives/january21-2016/Kidswaste-Come-Back/index.html">Kidswaste - Come Back ft. Gnash</a></li>
+			<li id="vid-li"><a href="archives/january21-2016/Lostboycrow-Love-Wont-Sleep/index.html">Lostboycrow - Love Wont Sleep</a></li>
+			
+
+		</ol>
+        </div>
+	
+	<div class="container" id='vid-content'>
+		<p id="vid-title">January 20th, 2016</p>
+		<ol id="arch">
+			<li id="vid-li"><a href="archives/january20-2016/MUTEMATH-Monument/index.html">MUTEMATH - Monument</a></li>
+			<li id="vid-li"><a href="archives/january20-2016/Jerry-Folk-To-My-Soul">Jerry Folk - To My Soul</a></li>
+			<li id="vid-li"><a href="archives/january20-2016/Dot-Demo-Solitary-Thoughts/index.html">Dot Demo - Solitary Thoughts</a></li>
+			<li id="vid-li"><a href="archives/january20-2016/Flux-Pavilion-Against-The-Clock/index.html">Flux Pavilion - Against The Clock</a></li>
+
+		</ol>
+        </div>
+	
+	<div class="container" id='vid-content'>
+		<p id="vid-title">January 19th, 2016</p>
+		<ol id="arch">
+			<li id="vid-li"><a href="archives/january19-2016/Love-Yourself-Vs-Fuck-Yourself/index.html">Yo Preston x Kelly Kiara - Love Youreself vs F*ck Yourself</a></li>
+			<li id="vid-li"><a href="archives/january19-2016/Pompeii-Russ-Trap-Remix">Bastille - Pompeii (Russ Trap Remix)</a></li>
+			<li id="vid-li"><a href="archives/january19-2016/Jamie-Lawson-Wasnt-Expecting-That/index.html">Jamie Lawson - Wasn't Expecting That</a></li>
+		</ol>
+        </div>
+	
+	<div class="container" id='vid-content'>
+		<p id="vid-title">January 18th, 2016</p>
+		<ol id="arch">
+		<p>No Videos Today</p>
+		</ol>
+        </div>
+	
+	<div class="container" id='vid-content'>
+		<p id="vid-title">January 17th, 2016</p>
+		<ol id="arch">
+			<li id="vid-li"><a href="archives/january17-2016/Macklemore-This-Unruly-Mess-Ive-Made/index.html">Macklemore - This Unruly Mess Ive Made Preview</a></li>
+			<li id="vid-li"><a href="archives/january17-2016/Jordan-Smith-Somebody-To-Love-Cover">Jordan Smith - Somebody To Love Cover</a></li>
+			<li id="vid-li"><a href="archives/january17-2016/Thomas-Rhett-Die-A-Happy-Man/index.html">Thomas Rhett - Die A Happy Man </a></li>
+			
+
+		</ol>
+        </div>
+	
+	<div class="container" id='vid-content'>
+		<p id="vid-title">January 16th, 2016</p>
+		<ol id="arch">
+			<li id="vid-li"><a href="archives/january16-2016/G-Eazy-Me-Myself-And-I/index.html">G-Eazy - Me, Myself, And I ft. Bebe Rexha</a></li>
+			<li id="vid-li"><a href="archives/january16-2016/Sabina-Ddumba-Not-Too-Young">Sabina Ddumba - Not Too Young</a></li>
+			<li id="vid-li"><a href="archives/january16-2016/The-Kooks-Naive/index.html">The Kooks - Naive</a></li>
+			<li id="vid-li"><a href="archives/january16-2016/Oh-Wonder-Livewire/index.html">Oh Wonder - Livewire</a></li>
+
+		</ol>
+        </div>
+	
+	<div class="container" id='vid-content'>
+		<p id="vid-title">January 15th, 2016</p>
+		<ol id="arch">
+			<li id="vid-li"><a href="archives/january15-2016/Broods-Bridges/index.html">Broods - Bridges</a></li>
+			<li id="vid-li"><a href="archives/january15-2016/Mike-Stud-Anyone-Else/index.html">Mike Stud - Anyone Else</a></li>
+			<li id="vid-li"><a href="archives/january15-2016/Donnie-Trumpet-Zion/index.html">Donnie Trumpet - Zion ft. Chance The Rapper & Vic Mensa</a></li>
+		</ol>
+        </div>
+	
+	<div class="container" id='vid-content'>
+		<p id="vid-title">January 14th, 2016</p>
+		<ol id="arch">
+			<li id="vid-li"><a href="archives/january14-2016/Duke-Dumont-I-Got-U/index.html">Duke Dumont - I Got U</a></li>
+			<li id="vid-li"><a href="archives/january14-2016/Gareth-Emery-U/index.html">Gareth Emery ft. Bo Bruce - U</a></li>
+			<li id="vid-li"><a href="archives/january14-2016/Klingande-Jubel/index.html">Klingande - Jubel</a></li>
+		</ol>
+        </div>
+	
+	<div class="container" id='vid-content'>
+		<p id="vid-title">January 13th, 2016</p>
+		<ol id="arch">
+			<li id="vid-li"><a href="archives/january13-2016/Post-Modern-Jukebox-Stacys-Mom/index.html">Post Modern Jukebox Vintage 1930s Hot Jazz Fountains of Wayne Cover ft. Casey Abrams - Stacys Mom</a></li>
+			<li id="vid-li"><a href="archives/january13-2016/Mac-Miller-Weekend/index.html">Mac Miller ft. Miguel - Weekend</a></li>
+			<li id="vid-li"><a href="archives/january13-2016/Sigma-Nobody-To-Love/index.html">Sigma - Nobody To Love</a></li>
+		</ol>
+        </div>
+	
+	<div class="container" id='vid-content'>
+		<p id="vid-title">January 12th, 2016</p>
+		<ol id="arch">
+			<li id="vid-li"><a href="archives/january12-2016/Ty-Law-Darker-Tomorrow/index.html">Ty Law - Darker Tomorrow</a></li>
+			<li id="vid-li"><a href="archives/january12-2016/The-Weeknd-Cant-Feel-My-Face-Breakdown/index.html">Chilly Gonzales - Cant Feel My Face Breakdown by The Weeknd</a></li>
+			<li id="vid-li"><a href="archives/january12-2016/Token-No-Sucka-Mcs-Contest/index.html">Token - No Sucka Mcs Contest</a></li>
+		</ol>
+        </div>
+	
+	<div class="container" id='vid-content'>
+		<p id="vid-title">January 11th, 2016</p>
+		<ol id="arch">
+			<li id="vid-li"><a href="archives/january11-2016/Jaden-Smith-Blue-Ocean/index.html"> Jaden Smith - Blue Ocean</a></li>
+			<li id="vid-li"><a href="archives/january11-2016/Kygo-Stay/index.html">Kygo ft. Maty Noyes - Stay (Acoustic)</a></li>
+			<li id="vid-li"><a href="archives/january11-2016/Ian-Eastwood-Adult-Lessons/index.html">Ian Eastwood - Adult Lessons Snippet</a></li>
+		</ol>
+        </div>
+	
+	<div class="container" id='vid-content'>
+		<p id="vid-title">January 10th, 2016</p>
+		<ol id="arch">
+			<li id="vid-li"><a href="archives/january10-2016/Lil-Dicky-Save-Dat-Money/index.html">Lil Dicky ft. Fetty Wap & Rich Homie Quan - $ave Dat Money</a></li>
+			<li id="vid-li"><a href="archives/january10-2016/Saves-The-Day-At-Your-Funeral/index.html">Saves The Day - At Your Funeral</a></li>
+			<li id="vid-li"><a href="archives/january10-2016/Tori-Kelly-Should-ve-Been-Us/index.html">Tori Kelly - Should've Been Us</a></li>
+		</ol>
+        </div>
+	
+	<div class="container" id='vid-content'>
+		<p id="vid-title">January 9th, 2016</p>
+		<ol id="arch">
+			<li id="vid-li"><a href="archives/january9-2016/Aurora-Runaway/index.html">Aurora - Runaway</a></li>
+			<li id="vid-li"><a href="archives/january9-2016/Action-Bronson-Actin-Crazy/index.html">Action Bronson - Actin Crazy</a></li>
+			<li id="vid-li"><a href="archives/january9-2016/Tula-River/index.html">Tula - River</a></li>
+		</ol>
+        </div>
+	
+	<div class="container" id='vid-content'>
+		<p id="vid-title">January 8th, 2016</p>
+		<ol id="arch">
+			<li id="vid-li"><a href="archives/january8-2016/Michael-Christmas-Look-Up-Save-The-Day/index.html">Michael Christmas - Look Up / Save The Day</a></li>
+			<li id="vid-li"><a href="archives/january8-2016/The-Hush-Sound-Wine-Red/index.html">The Hush Sound - Wine Red</a></li>
+			<li id="vid-li"><a href="archives/january8-2016/Sam-Tsui-And-Kina-Grannis-Bring-Me-The-Night/index.html">Sam Tsui & Kina Grannis - Bring Me The Night</a></li>
+		</ol>
+        </div>
+	
+	<div class="container" id='vid-content'>
+		<p id="vid-title">January 7th, 2016</p>
+		<ol id="arch">
+			<li id="vid-li"><a href="archives/january7-2016/WeezaLeo-Subliminal-Love-Letters/index.html">WeezaLeo - Subliminal Love Letters</a></li>
+			<li id="vid-li"><a href="archives/january7-2016/He-Is-We-Blame-It-On-The-Rain/index.html">He Is We - Blame It On The Rain (Acoustic)</a></li>
+			<li id="vid-li"><a href="archives/january7-2016/Kehlani-You-Should-Be-Here/index.html">Kehlani - You Should Be Here</a></li>
+		</ol>
+        </div>
+	
+	<div class="container" id='vid-content'>
+		<p id="vid-title">January 6th, 2016</p>
+		<ol id="arch">
+			<li id="vid-li"><a href="archives/january6-2016/21-Pilots-Car-Radio/index.html">Twenty One Pilots - Car Radio</a></li>
+			<li id="vid-li"><a href="archives/january6-2016/Gnash-I-Hate-You-I-Love-You/index.html">Gnash - I Hate U I Love U</a></li>
+			<li id="vid-li"><a href="archives/january6-2016/Chachi-Gonzales-Bring-It-On/index.html">Chachi Gonzales dances to Bring It On by Shy Carter</a></li>
+		</ol>
+        </div>
+	
+	<div class="container" id='vid-content'>
+		<p id="vid-title">January 5th, 2016</p>
+		<ol id="arch">
+			<li id="vid-li"><a href="archives/january5-2016/Back-To-The-Future/index.html">Young Girl Covers Back To the Future</a></li>
+			<li id="vid-li"><a href="archives/january5-2016/Nada-Surf-Always-Love/index.html">Nada Surf - Always Love</a></li>
+			<li id="vid-li"><a href="archives/january5-2016/Craig-Owens-Paradise/index.html">Craig Owens - Paradise Cover</a></li>
+		</ol>
+        </div>
+	
+	<div class="container" id='vid-content'>
+		<p id="vid-title">January 4th, 2016</p>
+		<ol id="arch">
+			<li id="vid-li"><a href="archives/january4-2016/Santa-Maradona-Give-Me-Sunshine/index.html">Santa Maradona F.C. ft. Lucy Spraggan - Give Me Sunshine</a></li>
+			<li id="vid-li"><a href="archives/january4-2016/Small-Black-Boys-Life/index.html">Small Black - Boys Life</a></li>
+			<li id="vid-li"><a href="archives/january4-2016/Bright-Eyes-First-Day-Of-My-Life/index.html">Bright Eyes - First Day Of My Life</a></li>
+		</ol>
+        </div>
+	
+	<div class="container" id='vid-content'>
+		<p id="vid-title">January 3rd, 2016</p>
+		<ol id="arch">
+			<li id="vid-li"><a href="archives/january3-2016/Mr-Happy/index.html">Chance The Rapper Short Film - Mr. Happy</a></li>
+			<li id="vid-li"><a href="archives/january3-2016/Gamper-And-Dadoni-Far-From-Home/index.html">Gamper And Dadoni ft. Cozy - Far From Home</a></li>
+			<li id="vid-li"><a href="archives/january3-2016/Michael-Mind-Project-Ignite/index.html">Michael Mind Project - Ignite</a></li>
+		</ol>
+        </div>
+	
+	<div class="container" id='vid-content'>
+		<p id="vid-title">January 2nd, 2016</p>
+		<ol id="arch">
+			<li id="vid-li"><a href="archives/january2-2016/Sigala-Sweet-Lovin/index.html">Sigala - Sweet Lovin'</a></li>
+			<li id="vid-li"><a href="archives/january2-2016/Rita-Ora-Body-On-Me/index.html">Rita Ora ft. Chris Brown - Body On Me</a></li>
+			<li id="vid-li"><a href="archives/january2-2016/Zara-Larsson-Carry-You-Home/index.html">Zara Larsson - Carry You Home</a></li>
+		</ol>
+        </div>
+	
+	<div class="container" id='vid-content'>
+		<p id="vid-title">January 1st, 2016</p>
+		<ol id="arch">
+			<li id="vid-li"><a href="archives/january1-2016/Bleachers-I-Wanna-Get-Better/index.html">Bleachers - I Wanna Get Better</a></li>
+			<li id="vid-li"><a href="archives/january1-2016/Taylor-Bennet-Happy-Place/index.html">Taylor Bennet - Happy Place</a></li>
+			<li id="vid-li"><a href="archives/january1-2016/Vic-Mensa-U-Mad/index.html">Vic Mensa ft. Kanye West - U Mad</a></li>
+		</ol>
+        </div>
+        
+       
+        <div class="container" id='vid-content'>
+		<ol id="arch">
+			<li id="vid-li"><a href="/december2015.html">December 2015</a></li>
+		</ol>
+        </div>
+	
+	<!--
+	<div class="container" id='vid-content'>
+		<p id="vid-title">December 31st, 2015</p>
+		<ol id="arch">
+			<li id="vid-li"><a href="archives/december31-2015/Snakehips-All-My-Friends/index.html">Snakehips ft. Chance The Rapper & Tinashe - All My Friends</a></li>
+			<li id="vid-li"><a href="archives/december31-2015/Chet-Faker-Gold/index.html">Chet Faker - Gold</a></li>
+			<li id="vid-li"><a href="archives/december31-2015/Wilkinson-Afterglow/index.html">Wilkinson - Afterglow</a></li>
+		</ol>
+        </div>
+	
+	<div class="container" id='vid-content'>
+		<p id="vid-title">December 30th, 2015</p>
+		<ol id="arch">
+			<li id="vid-li"><a href="archives/december30-2015/Fitz-And-The-Tantrums-Fools-Gold/index.html">Fitz & The Tantrums - Fools Gold</a></li>
+			<li id="vid-li"><a href="archives/december30-2015/Hal-Linton-Southern-Hospitality/index.html">Hal Linton - Southern Hospitality</a></li>
+			<li id="vid-li"><a href="archives/december30-2015/Chateau-Marmont-Wind-Blows/index.html">Chateau Marmont - Wind Blows</a></li>
+		</ol>
+        </div>
+	
+	<div class="container" id='vid-content'>
+		<p id="vid-title">December 29th, 2015</p>
+		<ol id="arch">
+			<li id="vid-li"><a href="archives/december29-2015/James-Bay-Let-It-Go/index.html">James Bay - Let it Go</a></li>
+			<li id="vid-li"><a href="archives/december29-2015/Lukas-Graham-7-Years/index.html">Lukas Graham -7 Years</a></li>
+			<li id="vid-li"><a href="archives/december29-2015/Seafret-Atlantis/index.html">Seafret - Atlantis</a></li>
+		</ol>
+        </div>
+	
+	<div class="container" id='vid-content'>
+		<p id="vid-title">December 28th, 2015</p>
+		<ol id="arch">
+			<li id="vid-li"><a href="archives/december28-2015/Weezaleo-Nothing-Feels-The-Same/index.html">WeezaLeo - Nothing Feels The Same</a></li>
+			<li id="vid-li"><a href="archives/december28-2015/Hechos-Fam-Selfish/index.html">Hechos Fam - Selfish</a></li>
+			<li id="vid-li"><a href="archives/december28-2015/Galantis-You/index.html">Galantis - You</a></li>
+			<li id="vid-li"><a href="archives/december28-2015/Shawn-Wasabi-Marble-Soda/index.html">Shawn Wasabi - Marble Soda</a></li>
+			<li id="vid-li"><a href="archives/december28-2015/Bei-Maejor-Its-On-U/index.html">Bei Maejor - Its On U</a></li>
+		</ol>
+        </div>
+	
+	<div class="container" id='vid-content'>
+		<p id="vid-title">December 27th, 2015</p>
+		<ol id="arch">
+			<li id="vid-li"><a href="archives/december27-2015/some-Framework/index.html">&some - Framework</a></li>
+			<li id="vid-li"><a href="archives/december27-2015/Aquilo-I-Gave-It-All/index.html">Aquilo - I Gave It All</a></li>
+			<li id="vid-li"><a href="archives/december27-2015/Aquilo-Losing-You/index.html">Aquilo - Losing You</a></li>
+			<li id="vid-li"><a href="archives/december27-2015/Dylan-Owen-Best-Fears-Of-Our-Lives/index.html">Dylan Owen - The Best Fears Of Our Lives</a></li>
+			
+		</ol>
+        </div>
+	
+   	<div class="container" id='vid-content'>
+		<p id="vid-title">December 26th, 2015</p>
+		<ol id="arch">
+			<li id="vid-li"><a href="archives/december26-2015/years-and-years-memo/index.html">Years & Years - Memo</a></li>
+			<li id="vid-li"><a href="archives/december26-2015/Matt-McAndrew-wasted-love/index.html">Matt McAndrew - Wasted Love</a></li>
+			<li id="vid-li"><a href="archives/december26-2015/Daniella-Andreade-Youth/index.html">Daniela Andrade - Youth Cover</a></li>
+			<li id="vid-li"><a href="archives/december26-2015/Luke-Friend-Hole-In-My-Heart/index.html">Luke Friend - Hole In My Heart</a></li>
+			<li id="vid-li"><a href="archives/december26-2015/The-Naked-And-Famous-Young-Blood/index.html">The Naked And Famous - Young Blood</a></li>
+		</ol>
+        </div>
+	
+   	<div class="container" id='vid-content'>
+		<p id="vid-title">December 25th, 2015</p>
+		<ol id="arch">
+			<li id="vid-li"><a href="archives/december25-2015/Alex-Sierra-Little-Do-You-Know/index.html">Alex & Sierra - Little Do You Know</a></li>
+			<li id="vid-li"><a href="archives/december25-2015/Daya-Hideaway/index.html">Daya - Hide Away</a></li>
+			<li id="vid-li"><a href="archives/december25-2015/James-Arthur-Your-Nobody-Til-Somebody-Loves-You/index.html">James Arthur - You're Nobody 'Til Somebody Loves You</a></li>
+			<li id="vid-li"><a href="archives/december25-2015/Luke-Christopher-Famous/index.html">Luke Christopher - Famous</a></li>
+			<li id="vid-li"><a href="archives/december25-2015/oncue-noway/index.html">OnCue - No Way</a></li>
+		</ol>
+        </div> 
+	
+	
+   	<div class="container" id='vid-content'>
+		<p id="vid-title">December 24th, 2015</p>
+		<ol id="arch">
+			<li id="vid-li"><a href="archives/december24-2015/Kodaline-Love-Will-Set-You-Free/index.html">Kodaline - Love Will Set You Free</a></li>
+			<li id="vid-li"><a href="archives/december24-2015/Jon-Bellion-Carry-Your-Throne/index.html">Jon Bellion - Carry Your Throne</a></li>
+			<li id="vid-li"><a href="archives/december24-2015/Birdy-Heart-Of-Gold/index.html">Birdy - Heart Of Gold</a></li>
+			<li id="vid-li"><a href="archives/december24-2015/Against-The-Current-Outsiders/index.html">Against The Current - Outsiders</a></li>
+			<li id="vid-li"><a href="archives/december24-2015/Cady-Groves-This-Little-Girl/index.html">Cady Groves - This Little Girl</a></li>
+			</ol>
+        </div> 
+	
+	
+   	<div class="container" id='vid-content'>
+		<p id="vid-title">December 23rd, 2015</p>
+		<ol id="arch">
+			<li id="vid-li"><a href="archives/december23-2015/Bored-Nothing-Let-Down/index.html">Bored Nothing - Let Down</a></li>
+			<li id="vid-li"><a href="archives/december23-2015/Seinabo-Sey-Younger/index.html">Seinabo Sey - Younger</a></li>
+			<li id="vid-li"><a href="archives/december23-2015/this/index.html">Madeline Juno - Error</a></li>
+			<li id="vid-li"><a href="archives/december23-2015/Oh-Wonder-All-We-Do/index.html">Oh Wonder - All We Do</a></li>
+			<li id="vid-li"><a href="archives/december23-2015/this2/index.html">Wintergatan - Sommarfåge</a></li>
+			
+		</ol>
+        </div>-->
+	
+	<!-- decemebr 22nd --><!--
+	<div class="container" id='vid-content'>
+		<p id="vid-title">December 22nd, 2015</p>
+		<ol id="arch">
+			<li id="vid-li"><a href="archives/day1/lukegraham/index.html">Lukas Graham - Drunk In The Morning</a></li>
+			<li id="vid-li"><a href="archives/day1/bearsden-elysium/index.html">Bear's Den - Elysium</a></li>
+			<li id="vid-li"><a href="archives/day1/bestday/index.html">The Best Day</a></li>
+			<li id="vid-li"><a href="archives/day1/hayleykiyoko/index.html">Hayley Kiyoko - Girls like Girls</a></li>
+			<li id="vid-li"><a href="archives/day1/sundaycandy/index.html">The Social Experiment - Sunday Candy Short Film</a></li>
+		</ol>
+        </div>-->
+        
+        <!--December 2015 page
+        <div class="container" id='vid-content'>
+		<ol id="arch">
+			<li id="vid-li"><a href="archives/day1/lukegraham/index.html">December 2015</a></li>
+		</ol>
+        </div>
+        -->
+        
+        
+       
+        <div class="container" id="container6">
+        	<ol id="footer">
+        		<li><a href="/privacy.html">Privacy</a></li>
+        		<li><a href="/copyright.html">Copyright</a></li>
+        	</ol>
+	</div>
+        
+        </body>
+        </html>
+        
+        
+
